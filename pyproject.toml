@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Agent-Based Model for the experiment described in Robinson et al (2011)"
 readme = "README.md"
 requires-python = ">=3.8"
-dependencies = [numpy, matplotlib]
+dependencies = [
+    "numpy",
+    "matplotlib"
+]
